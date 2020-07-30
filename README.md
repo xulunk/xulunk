@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working on deep learning techniques and their application in medical imaging.
+- 🌱 I’m currently learning ...
 <!--
 **xulunk/xulunk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
